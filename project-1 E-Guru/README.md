@@ -1,6 +1,6 @@
 # E-Guru: Project-1
 
-A website project which has motive to provide E-education to the students world-wide.
+A website project which has motive to provide E-education to the students world-wide
 
 This project is created during the milestone exam-1 conducted by the PW Skill's FSWD 2.0 course.
 
